@@ -1,0 +1,29 @@
+class byc
+	{
+	int sd,gr;
+	void applybreake(int dec)
+	{
+	sd=sd-dec;
+	}
+	void speedup(int iner)
+	{
+	sd=sd+iner;
+	}
+	
+	void status()
+	{
+	System.out.println("speed:"+sd+"gear:"+sd);
+	}
+	
+
+
+class conn
+	{
+	public static void main(String[] orgs)
+	{
+	 byc bycc=new byc();
+	bycc.applybreake(20);
+	bycc.speedup(24);
+	bycc.status();
+	}
+}

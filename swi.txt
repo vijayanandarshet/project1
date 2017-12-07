@@ -1,0 +1,24 @@
+class SWI
+	{
+	public static void main(String[] fgf)
+	{
+	int i=13;
+	switch(i)
+	{
+	case 13:
+	System.out.println("13 is printing");
+	break;
+	case 14:
+	System.out.println("14 is printing");
+	break;
+	case 15:
+	System.out.println("15is running");
+	break;
+	case 16:
+	System.out.println(" 16 is running");
+	break;
+	default:
+		System.out.println("unknown");
+	}
+}
+}

@@ -1,0 +1,16 @@
+class T
+{
+	int i;
+	float f;
+	char c;
+	double d;
+	byte b;
+	long l;
+	boolean b;
+	short s;
+	public static void main(String() asd)
+	{
+	
+	System.out.println("hiiiiii")
+	}
+}

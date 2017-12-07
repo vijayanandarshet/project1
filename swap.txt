@@ -1,0 +1,12 @@
+class S
+{
+public static void main(String[] sdf)
+	{
+	int i=30;
+	int j=40;
+	int g=i;
+	i=j;
+	j=g;
+}
+
+}
